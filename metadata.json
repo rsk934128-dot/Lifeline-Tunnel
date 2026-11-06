@@ -1,0 +1,6 @@
+{
+  "name": "Lifeline Tunnel",
+  "description": "A secure, one-tap emergency tunneling & zero-knowledge VPN lifeline designed for internet censorship, zero-balance connectivity, and crisis communication.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

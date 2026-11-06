@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Shield Outer Boundary -->
+    <path
+        android:fillColor="#00E676"
+        android:pathData="M54,20 C64,20 74,25 78,32 C78,56 54,78 54,78 C54,78 30,56 30,32 C34,25 44,20 54,20 Z"
+        android:fillAlpha="0.15" />
+    <path
+        android:strokeColor="#00E676"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:pathData="M54,22 C63,22 72,26 76,33 C76,53 54,74 54,74 C54,74 32,53 32,33 C36,26 45,22 54,22 Z" />
+    <!-- Pulse Signal Rings -->
+    <path
+        android:strokeColor="#00B0FF"
+        android:strokeWidth="2"
+        android:strokeLineCap="round"
+        android:pathData="M44,48 A10,10 0 0,1 64,48" />
+    <!-- Central Core Beacon -->
+    <path
+        android:fillColor="#00E676"
+        android:pathData="M54,43 A5,5 0 1,1 53.99,43 Z" />
+    <!-- Lock Shackle -->
+    <path
+        android:strokeColor="#00B0FF"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:pathData="M46,45 L46,38 A8,8 0 0,1 62,38 L62,45" />
+</vector>
